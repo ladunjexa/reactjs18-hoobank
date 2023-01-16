@@ -33,7 +33,7 @@
 </p>
    
  <h4>
-    <a href="https://github.com/ladunjexa/Modern-UI.UX-Web/">View Demo</a>
+    <a href="https://modern-ui-ux-web.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/Modern-UI.UX-Web">Documentation</a>
   <span> · </span>
